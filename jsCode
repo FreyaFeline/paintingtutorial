@@ -1,0 +1,12 @@
+var draw = function() {
+    
+    if (mouseIsPressed) {
+        
+    noStroke();
+    fill(247, 91, 195);
+    ellipse(mouseX, mouseY, 20, 20);
+      
+    }
+    
+    
+};
